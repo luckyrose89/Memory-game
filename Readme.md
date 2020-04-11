@@ -1,6 +1,6 @@
 # Memory Game
 
-A classic card flipping memory game that reminds people of a list of covid-19 precaautions on a successful match. The live version is available at this [link](<[https://luckyrose89.github.io/Memory-game/](https://luckyrose89.github.io/Memory-game/)>).
+A classic card flipping memory game that reminds people of a list of covid-19 precaautions on a successful match. The live version is available at this [link](https://luckyrose89.github.io/Memory-game/).This game is part of a series of vanilla Javascript games inspired by Ania Kubow's Javascript game tutorials. For more details check out her channel [youtube channel.](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 
 ## Prerequisites
 
